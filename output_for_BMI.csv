@@ -1,0 +1,8 @@
+Gender,Height,Weight,BMI_categoty,BMI_range,Health_risk
+Male,174,96,Moderately obese,31.708283789139912,Medium Risk
+Male,189,87,Normal Weight,24.355421180818006,Low Risk
+Female,185,110,Moderately obese,32.14024835646457,Medium Risk
+Female,195,104,Over Weight,27.350427350427353,Enhanced Risk
+Male,149,61,Over Weight,27.476239809017613,Enhanced Risk
+Male,250,104,Underweight,16.64,Malnutrition Risk
+Male,147,92,Very Severly obese,42.5748530704799,Very High Risk
